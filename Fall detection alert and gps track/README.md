@@ -1,6 +1,6 @@
-# safesense
+# GPS Tracking and Sending SOS in case of emergency
 
-User Interface Component of a tool to detect falls, recieve user validation, output attention drawing sound, and untimately help users with poor balance/falling issues.
+User Interface Component of a tool to detect falls, recieve user validation, output attention drawing sound-sends their geolocation to the respective care tacker via SMS, and untimately help users with poor balance/falling issues.
 
 ## Getting Started
 
